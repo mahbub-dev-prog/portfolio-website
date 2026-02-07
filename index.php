@@ -1,10 +1,10 @@
-Build a responsive personal portfolio website using React.
-Pages: Home, About, Skills, Projects, Contact.
-Features:
-- Clean modern UI
-- Reusable components
-- Project cards with title, description, GitHub link
-- Contact form (UI only)
-- Mobile responsive
-Tech stack: React, CSS / Tailwind
-Use clean folder structure and readable code.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mahbub | Portfolio</title>
+</head>
+<body>
+  <div id="root"></div>
+</body>
+</html>
