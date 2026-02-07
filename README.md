@@ -1,16 +1,7 @@
 # Portfolio Website
 
-Personal portfolio website built with React.
+Personal portfolio built with React.
 
-## Features
-- Responsive design
-- Project showcase
-- Contact section
-
-## Tech Stack
-- React
-- CSS
-
-## Run Locally
+## Run
 npm install  
-npm start
+npm run dev
